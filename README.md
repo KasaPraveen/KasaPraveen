@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KasaPraveen
+- 👀 I’m interested in Blockchain application development!
+- 🌱 I’m currently learning Solidity to code
+- 💞️ I’m looking to collaborate on Dapps Development.
+- 📫 How to reach me : My socials will be there soon.
